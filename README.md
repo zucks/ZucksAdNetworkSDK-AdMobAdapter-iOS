@@ -8,7 +8,7 @@ iOS向けアプリケーションにAdMob MediationでZucks Ad Networkの広告�
 
 ## 対象OS
 
-iOS8.0以降
+iOS9.0以降
 
 ## 導入手順
 
