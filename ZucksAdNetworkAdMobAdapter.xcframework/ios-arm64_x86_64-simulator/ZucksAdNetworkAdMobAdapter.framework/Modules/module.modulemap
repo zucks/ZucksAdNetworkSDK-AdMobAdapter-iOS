@@ -1,0 +1,6 @@
+framework module ZucksAdNetworkAdMobAdapter {
+  umbrella "Headers"
+
+  export *
+  module * { export * }
+}
