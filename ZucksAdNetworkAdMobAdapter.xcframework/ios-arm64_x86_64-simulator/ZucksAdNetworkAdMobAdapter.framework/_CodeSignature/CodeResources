@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		udevJsQPlqfmyS/9rNBDsv9Udps=
+		Fahi1yTA2je9RMltS2Q29Oh6Ghs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -21,10 +21,6 @@
 	<dict>
 		<key>Headers/GADMAdapterZucksExtras.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RK/Wolq4busZ3o/49+IbdriHsR8=
-			</data>
 			<key>hash2</key>
 			<data>
 			gq0vXkucRAqtgpeqV97PjBHBKWr4quflK6CheBxrSb0=
@@ -32,10 +28,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hNMVOgvOctArUguDA0uP0AzfVE0=
-			</data>
 			<key>hash2</key>
 			<data>
 			/0Ji+NdpTS450caIjeVQhjetcGatFfHRDfXlp6lnbDE=
