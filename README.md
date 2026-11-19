@@ -14,4 +14,4 @@ https://ms.zucksadnetwork.com/media/sdk/manual/admob-mediation/
 
 ## LICENSE
 
-Copyright (C) Zucks, Inc.
+Copyright (C) CARTA ZERO Inc.
